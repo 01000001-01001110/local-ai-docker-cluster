@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # local-ai-docker-cluster
 
 
