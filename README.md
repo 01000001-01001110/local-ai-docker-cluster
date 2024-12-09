@@ -1,8 +1,7 @@
-# local-ai-docker-cluster
+# Welcome to my Local AI Docker Cluster
 
+![image](https://github.com/user-attachments/assets/cf25f9d6-6ba5-49d5-8f98-9aa89ad565bc)
 
-
-![image](https://github.com/user-attachments/assets/a94da3d9-6f03-4311-80d1-b9b21afda284)
 =======
 # Local AI Server
 
