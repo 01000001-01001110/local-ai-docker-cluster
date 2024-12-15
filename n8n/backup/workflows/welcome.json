@@ -1,0 +1,29 @@
+﻿{
+    "id": 1,
+    "name": "Welcome Workflow",
+    "active": false,
+    "nodes": [
+        {
+            "parameters": {},
+            "id": "12345678-1234-1234-1234-123456789012",
+            "name": "Start",
+            "type": "n8n-nodes-base.start",
+            "typeVersion": 1,
+            "position": [
+                250,
+                300
+            ]
+        }
+    ],
+    "connections": {},
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z",
+    "settings": {
+        "saveExecutionProgress": true,
+        "saveManualExecutions": true,
+        "callerPolicy": "workflowsFromSameOwner",
+        "errorWorkflow": ""
+    },
+    "staticData": null,
+    "tags": []
+}
